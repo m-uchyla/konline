@@ -20,7 +20,7 @@ require __DIR__ . '/development.php';
 
 // Database
 //$settings['db']['driver']   = 'pdo_mysql';
-$settings['db']['host']     = 'localhost'; 
-$settings['db']['database'] = 'phpdb';
-$settings['db']['username'] = 'root';
-$settings['db']['password'] = '';
+$settings['db']['host']     = 'ec2-54-228-251-117.eu-west-1.compute.amazonaws.com'; 
+$settings['db']['database'] = 'd68i0vtk27v33j';
+$settings['db']['username'] = 'jsezzwkxwhkidz';
+$settings['db']['password'] = 'eea4bd40f58ba0ced65bcbc74a8e15492ec94284982e1b446ff0b4f7e3b0ec1e';
